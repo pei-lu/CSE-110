@@ -1,15 +1,32 @@
-# Junyi's User Page  
+# All about me
 ![profile Image](https://user-images.githubusercontent.com/55153144/230825974-222e57b5-64ca-4bc2-b49d-b718855eb031.png)
 **I am a CSE 110 student**, my name is *Junyi Wu*.  
->this is a quoted text.
+>世上无难事，只怕有心人。
 
-the following is quoted code
+The following are some commands used in lab 1
 ```
-git status
+git pull
 git add
 git commit
 ```
-This is my [favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
-[a_section_link](# junyi's user page)
-## this is a section link and my image for lab1
-[readme](/README.md)
+This is my [favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)   
+[Go back to top](#all_bout_me)  
+My published github pages is in [readme](/README.md) file.  
+
+I have taken some CSE course at UCSd, including  
+* CSE 11
+* CSE 12
+* CSE 15L
+* CSE 30
+* CSE 100
+* CSE 101  
+
+Some of my Future goals are
+1. develop a game independently.
+2. enroll in an graduate program
+3. find an intern
+
+The home work for week 1  
+- [x] join slack
+- [x] Say Hi to professor.
+- [ ] Submit Lab1
