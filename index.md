@@ -10,6 +10,6 @@ git add
 git commit
 ```
 This is my [favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
-[a section link](# junyi's user page)
+[a_section_link](# junyi's user page)
 ## this is a section link and my image for lab1
 [readme](/README.md)
