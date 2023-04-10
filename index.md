@@ -10,7 +10,7 @@ git add
 git commit
 ```
 This is my [favorite video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)   
-[Go back to top](#all_bout_me)  
+[Go back to top](#All_bout_me)  
 My published github pages is in [readme](/README.md) file.  
 
 I have taken some CSE course at UCSd, including  
