@@ -3,7 +3,7 @@
 **I am a CSE 110 student**, my name is *Junyi Wu*.  
 >世上无难事，只怕有心人。
 
-[about myself](#My-education-background)  
+
 The following are some commands used in lab 1
 ```
 git pull
@@ -31,3 +31,6 @@ The home work for week 1
 - [x] join slack
 - [x] Say Hi to professor.
 - [ ] Submit Lab1
+
+
+[go back to top](#All-about-me)  
